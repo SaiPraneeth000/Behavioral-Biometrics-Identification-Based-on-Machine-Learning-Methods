@@ -45,10 +45,14 @@ Model Training – Train ML models like SVM, Random Forest, Logistic Regression,
 Evaluation – Compare models using standard performance metrics
 
 📊 Results (Sample)
-Model	Accuracy	Precision	Recall	F1-Score
-Logistic Regression	xx%	xx%	xx%	xx%
-Random Forest	     xx%	xx%	xx%	xx%
-SVM	               xx%	xx%	xx%	xx%
+Model	Accuracy	  Precision	 Recall	   F1-Score
+
+Logistic Regression	xx%	      xx%	         xx%
+
+Random Forest	      xx%	      xx%	         xx%
+
+SVM	                xx%	      xx%	         xx%
+
 📌 Future Scope
 
 Integration with deep learning models for improved accuracy
